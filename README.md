@@ -1,6 +1,6 @@
 
 # 💡 Vamsi Krishna K
-
+<h3 align="center">A passionate Data Analyst</h3>
 
 Hello, I'm **Vamsi Krishna**, a **Certified Data Analyst** from Bangalore, Karnataka, with expertise in uncovering insights from data to drive decision-making. I'm proficient in:
 - 📊 Data Visualization: **Power BI, Tableau**
