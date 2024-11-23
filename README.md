@@ -25,11 +25,11 @@ Hello, I'm **Vamsi Krishna**, a **Certified Data Analyst** from Bangalore, Karna
 ## 📂 Featured Projects
 ### 🏬 Superstore Analysis Dashboard
 - Built an interactive dashboard using **Power BI** to visualize sales trends, profit, and key metrics.
-- Repository: [Superstore Dashboard](https://github.com/your-repo-link)
+- Repository: [Superstore Dashboard](https://mavenanalytics.io/project/18039)
 
 ### 📈 Atliq Sales Insights
 - Performed sales analysis and visualized trends using **Tableau** and **SQL**.
-- Repository: [Atliq Sales Insights](https://github.com/your-repo-link)
+- Repository: [Atliq Sales Insights](https://mavenanalytics.io/project/18038)
 
 ---
 
