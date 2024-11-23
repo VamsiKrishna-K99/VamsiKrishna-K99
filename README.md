@@ -1,5 +1,6 @@
 
-# 💡 Vamsi Krishna - Certified Data Analyst
+# 💡 Vamsi Krishna K
+
 
 Hello, I'm **Vamsi Krishna**, a **Certified Data Analyst** from Bangalore, Karnataka, with expertise in uncovering insights from data to drive decision-making. I'm proficient in:
 - 📊 Data Visualization: **Power BI, Tableau**
@@ -21,14 +22,26 @@ Hello, I'm **Vamsi Krishna**, a **Certified Data Analyst** from Bangalore, Karna
 | R              | ![R Badge](https://img.shields.io/badge/R-Data%20Analysis-teal) |
 
 ---
+## 📂 **Portfolio**  
 
-## 📂 Featured Projects
+Here are some of my projects:  
+
+### **Financial Analysis Dashboard**  
+- **Tools Used**: Power BI, Excel  
+- **Description**: Created a financial dashboard to track revenue, expenses, and profit trends, enabling stakeholders to make informed decisions.  
+- Repository: [Financial Dashboard](https://mavenanalytics.io/project/18034)  
+ 
+
 ### 🏬 Superstore Analysis Dashboard
-- Built an interactive dashboard using **Power BI** to visualize sales trends, profit, and key metrics.
+- **Tools Used**: Tableau, Excel 
+- **Description**: Developed interactive dashboards to analyze sales performance across regions and product categories.
+- Built an interactive dashboard using **Tableau** to visualize sales trends, profit, and key metrics.
 - Repository: [Superstore Dashboard](https://mavenanalytics.io/project/18039)
 
 ### 📈 Atliq Sales Insights
-- Performed sales analysis and visualized trends using **Tableau** and **SQL**.
+- **Tools Used**: Power BI, SQL 
+- **Description**: Cleaned and analyzed sales data to identify trends and opportunities for growth. Visualized results using Python libraries. 
+- Performed sales analysis and visualized trends using **Power BI** and **SQL**.
 - Repository: [Atliq Sales Insights](https://mavenanalytics.io/project/18038)
 
 ---
